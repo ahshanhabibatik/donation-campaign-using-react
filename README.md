@@ -20,3 +20,11 @@ Donation Categories and Fund Allocation:
   2.Allow donors to select a category for their donation, and store this information in local storage.
 
   3.Implement a system for campaign organizers to allocate funds to specific projects or initiatives within each category.
+
+  ## Technologies Used
+- React
+- React Router for routing
+- SweetAlert2 for user-friendly alerts
+- React Toastify
+- Responsive Design
+- React Charter 
