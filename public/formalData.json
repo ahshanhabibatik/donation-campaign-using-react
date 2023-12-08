@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/JjLDPS7/Health.png",
+        "title": "Health",
+        "category": "Clean water for children",
+        "description": "Description for providing clean and safe drinking water to underprivileged children in need. Your support will help improve their health and well-being by ensuring access to clean water sources.",
+        "backgroundColor": "#0034FF26",
+        "textColor": "#0052FF",
+        "price": 70
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/J3ksfKy/Education.png",
+        "title": "Education",
+        "category": "Good education",
+        "description": "Description for promoting quality education for children in disadvantaged communities. Join us in our mission to empower young minds with the knowledge and skills they need to build a brighter future.",
+        "backgroundColor": "#FF442A26",
+        "textColor": "#c60055",
+        "price": 50
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/Dwf9PsV/Clothing.png",
+        "title": "Clothing",
+        "category": "Used Clothing Drive",
+        "description": "Description for supporting our used clothing drive to provide warm clothing to those in need during the cold seasons. Your contributions will help keep individuals and families warm and comfortable.",
+        "backgroundColor": "#79C23F26",
+        "textColor": "#087f23",
+        "price": 40
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/bL997qd/Food.png",
+        "title": "Food",
+        "category": "Better Food for Everyone",
+        "description": "Description for our initiative to ensure better food access and nutrition for all. Join us in the fight against hunger and help provide nutritious meals to those facing food insecurity.",
+        "backgroundColor": "#F8714726",
+        "textColor": "#f87147",
+        "price": 30
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/bL997qd/Food.png",
+        "title": "Food",
+        "category": "Better Food for Everyone",
+        "description": "Description for our initiative to ensure better food access and nutrition for all. Join us in the fight against hunger and help provide nutritious meals to those facing food insecurity.",
+        "backgroundColor": "#F8714726",
+        "textColor": "#f87147",
+        "price": 70
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/Dwf9PsV/Clothing.png",
+        "title": "Clothing",
+        "category": "Used Clothing Drive",
+        "description": "Description for supporting our used clothing drive to provide warm clothing to those in need during the cold seasons. Your contributions will help keep individuals and families warm and comfortable.",
+        "backgroundColor": "#79C23F26",
+        "textColor": "#087f23",
+        "price": 80
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/J3ksfKy/Education.png",
+        "title": "Education",
+        "category": "Good education",
+        "description": "Description for promoting quality education for children in disadvantaged communities. Join us in our mission to empower young minds with the knowledge and skills they need to build a brighter future.",
+        "backgroundColor": "#FF442A26",
+        "textColor": "#c60055",
+        "price": 90
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/JjLDPS7/Health.png",
+        "title": "Health",
+        "category": "Clean water for children",
+        "description": "Description for providing clean and safe drinking water to underprivileged children in need. Your support will help improve their health and well-being by ensuring access to clean water sources.",
+        "backgroundColor": "#0034FF26",
+        "textColor": "#0097a7",
+        "price": 40
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/JjLDPS7/Health.png",
+        "title": "Health",
+        "category": "Clean water for children",
+        "description": "Description for providing clean and safe drinking water to underprivileged children in need. Your support will help improve their health and well-being by ensuring access to clean water sources.",
+        "backgroundColor": "#0034FF26",
+        "textColor": "#0097a7",
+        "price": 60
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/J3ksfKy/Education.png",
+        "title": "Education",
+        "category": "Good education",
+        "description": "Description for promoting quality education for children in disadvantaged communities. Join us in our mission to empower young minds with the knowledge and skills they need to build a brighter future.",
+        "backgroundColor": "#FF442A26",
+        "textColor": "#c60055",
+        "price": 50
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/Dwf9PsV/Clothing.png",
+        "title": "Clothing",
+        "category": "Used Clothing Drive",
+        "description": "Description for supporting our used clothing drive to provide warm clothing to those in need during the cold seasons. Your contributions will help keep individuals and families warm and comfortable.",
+        "backgroundColor": "#79C23F26",
+        "textColor": "#087f23",
+        "price": 40
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/bL997qd/Food.png",
+        "title": "Food",
+        "category": "Better Food for Everyone",
+        "description": "Description for our initiative to ensure better food access and nutrition for all. Join us in the fight against hunger and help provide nutritious meals to those facing food insecurity.",
+        "backgroundColor": "#F8714726",
+        "textColor": "#c60055",
+        "price": 50
+    }
+]
